@@ -1,11 +1,13 @@
 Project Details:
-This project is about product app.
-In this you can add product,
-you can update product,
-you can view all products,
-and you can delete product.
+This project is about Banking System Application.
+In this you can create account,
+you can update account details,
+you can view account details,
+you can do transaction,
+you can print transaction history and check available balance.
+This application is event driven 
 
 How To Use:
 Install Python,
-and for database i have used sqlite3 
+No database is used, and it's just a console based application
 
